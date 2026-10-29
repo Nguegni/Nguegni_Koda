@@ -11,6 +11,8 @@ Ce dépôt contient le socle du dossier de gouvernance. Les informations observ�
 - [Inventaire, DICP et classification](TP1.1/INVENTAIRE-DICP-CLASSIFICATION.md)
 - [Preuves de découverte et analyse des sources](TP1.1/PREUVES-DECOUVERTE.md)
 - [Index des captures à déposer](TP1.1/INDEX-CAPTURES.md)
+- [Registre des risques](TP1.2/REGISTRE-DES-RISQUES.md)
+- [Synthèse direction](TP1.2/SYNTHESE-DIRECTION.md)
 
 ## Périmètre de la découverte
 
