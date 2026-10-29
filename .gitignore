@@ -1,0 +1,10 @@
+# Données privées et secrets : ne jamais publier
+credentials-private.json
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Fichiers temporaires
+~$*
+*.tmp
